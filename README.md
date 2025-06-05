@@ -16,9 +16,9 @@ Subpages: Offer, Gallery, Contact
 Responsive design (works on phones and tablets)
 
 # 🔧 Local launch
-git clone https://github.com/user-name/jrm-housing.git
+git clone https://github.com/user-name/jrm.git
 
-cd jrm-housing
+cd jrm
 
 npm install
 
