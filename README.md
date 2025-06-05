@@ -26,4 +26,6 @@ npm start
 
 # 📸 Preview
 
+![Zrzut ekranu 2025-06-05 144503](https://github.com/user-attachments/assets/2be962ed-18dd-4093-aef1-b76cec41dc0f)
+
 
