@@ -3,17 +3,25 @@ A website created for the JRM company, specializing in the production of air con
 
 # 🧰 Technologies
 React
+
 React Router (for navigation between pages)
+
 Tailwind CSS / styled-components (if used)
 
 # 📦 Functionalities
 Homepage with a short description of the company and CTA
+
 Subpages: Offer, Gallery, Contact
+
 Responsive design (works on phones and tablets)
 
 # 🔧 Local launch
 git clone https://github.com/user-name/jrm-housing.git
+
 cd jrm-housing
+
 npm install
+
 npm start
+
 
