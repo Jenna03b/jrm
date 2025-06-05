@@ -24,4 +24,6 @@ npm install
 
 npm start
 
+# 📸 Preview
+
 
